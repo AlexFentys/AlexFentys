@@ -1,8 +1,8 @@
 # Olá eu sou Alex Alves
 
 Formado em Analise e desenvolvimento de Sistemas.
-Estou Buscando Pós em Engenharia de Software.
-Estudando HTML, CSS3,PHP, TypeScript, React Native, Frontend-ZP, Laravel, NodeJS, Banco de dados e JavaScript.
+Estou Buscando Pós em Engenharia de Software e big data analytics.
+Estudando HTML, CSS3, Banco de dados, JavaScript e Python.
 
 <div
   <a href="https://github.com/AlexAlves">
